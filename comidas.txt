@@ -2,4 +2,11 @@ Arroz
 Lentajas
 Jamon
 Aceituna
+<<<<<<< HEAD
 Auto
+=======
+Kiwis
+Pomelo
+Bananas
+Sandwiches
+>>>>>>> terminalBranch
